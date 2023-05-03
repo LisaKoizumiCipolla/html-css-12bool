@@ -22,6 +22,7 @@ h1{
 
 .nested>div{
     background-color: #01E165;
+    border: 1px solid #006CFA;
 }
 
 .empty-row{
